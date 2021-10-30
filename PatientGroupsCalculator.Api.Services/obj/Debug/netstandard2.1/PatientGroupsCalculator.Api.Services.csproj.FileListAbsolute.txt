@@ -1,0 +1,12 @@
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\bin\Debug\netstandard2.1\PatientGroupsCalculator.Api.Services.deps.json
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\bin\Debug\netstandard2.1\PatientGroupsCalculator.Api.Services.dll
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\bin\Debug\netstandard2.1\PatientGroupsCalculator.Api.Services.pdb
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\bin\Debug\netstandard2.1\PatientGroupsCalculator.Api.Contracts.dll
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\bin\Debug\netstandard2.1\PatientGroupsCalculator.Api.Contracts.pdb
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Services.csprojAssemblyReference.cache
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Services.AssemblyInfoInputs.cache
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Services.AssemblyInfo.cs
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Services.csproj.CoreCompileInputs.cache
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Services.csproj.CopyComplete
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Services.dll
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Services\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Services.pdb

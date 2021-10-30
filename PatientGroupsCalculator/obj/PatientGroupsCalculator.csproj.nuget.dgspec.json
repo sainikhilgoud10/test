@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator\\PatientGroupsCalculator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator\\PatientGroupsCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator\\PatientGroupsCalculator.csproj",
+        "projectName": "PatientGroupsCalculator",
+        "projectPath": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator\\PatientGroupsCalculator.csproj",
+        "packagesPath": "C:\\Users\\masainik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\masainik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/TASMUCP/d0902a05-fe88-4eb4-bab4-badafc58ebfa/_packaging/TASMUDev/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

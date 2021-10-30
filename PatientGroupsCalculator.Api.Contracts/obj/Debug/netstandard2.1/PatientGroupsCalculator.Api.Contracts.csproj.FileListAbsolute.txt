@@ -1,0 +1,8 @@
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Contracts\bin\Debug\netstandard2.1\PatientGroupsCalculator.Api.Contracts.deps.json
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Contracts\bin\Debug\netstandard2.1\PatientGroupsCalculator.Api.Contracts.dll
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Contracts\bin\Debug\netstandard2.1\PatientGroupsCalculator.Api.Contracts.pdb
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Contracts\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Contracts.AssemblyInfoInputs.cache
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Contracts\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Contracts.AssemblyInfo.cs
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Contracts\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Contracts\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Contracts.dll
+C:\Users\masainik\Desktop\PatientGroups\PatientGroupsCalculator\PatientGroupsCalculator.Api.Contracts\obj\Debug\netstandard2.1\PatientGroupsCalculator.Api.Contracts.pdb

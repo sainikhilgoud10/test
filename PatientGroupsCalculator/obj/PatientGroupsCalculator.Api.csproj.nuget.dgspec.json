@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Contracts\\PatientGroupsCalculator.Api.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Contracts\\PatientGroupsCalculator.Api.Contracts.csproj",
+        "projectName": "PatientGroupsCalculator.Api.Contracts",
+        "projectPath": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Contracts\\PatientGroupsCalculator.Api.Contracts.csproj",
+        "packagesPath": "C:\\Users\\masainik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\masainik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/TASMUCP/d0902a05-fe88-4eb4-bab4-badafc58ebfa/_packaging/TASMUDev/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Services\\PatientGroupsCalculator.Api.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Services\\PatientGroupsCalculator.Api.Services.csproj",
+        "projectName": "PatientGroupsCalculator.Api.Services",
+        "projectPath": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Services\\PatientGroupsCalculator.Api.Services.csproj",
+        "packagesPath": "C:\\Users\\masainik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\masainik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/TASMUCP/d0902a05-fe88-4eb4-bab4-badafc58ebfa/_packaging/TASMUDev/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Contracts\\PatientGroupsCalculator.Api.Contracts.csproj": {
+                "projectPath": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Contracts\\PatientGroupsCalculator.Api.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.csproj",
+        "projectName": "PatientGroupsCalculator.Api",
+        "projectPath": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.csproj",
+        "packagesPath": "C:\\Users\\masainik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\masainik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/TASMUCP/d0902a05-fe88-4eb4-bab4-badafc58ebfa/_packaging/TASMUDev/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Contracts\\PatientGroupsCalculator.Api.Contracts.csproj": {
+                "projectPath": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Contracts\\PatientGroupsCalculator.Api.Contracts.csproj"
+              },
+              "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Services\\PatientGroupsCalculator.Api.Services.csproj": {
+                "projectPath": "C:\\Users\\masainik\\Desktop\\PatientGroups\\PatientGroupsCalculator\\PatientGroupsCalculator.Api.Services\\PatientGroupsCalculator.Api.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
